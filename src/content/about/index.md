@@ -1,37 +1,37 @@
 ---
-title: "About"
-page_title: "About our company"
+title: "Nuestra Historia"
+page_title: "Sobre Los Amigos"
 buttons:
-  - label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+  - label: Comprar Productos
+    link: "/integrations"
     enable: true
-  - label: Learn More
-    link: "#"
+  - label: Recetas y Tips
+    link: "/blog"
     outline: true
     enable: true
 
 # counter
 counter:
-  - name: "Customers"
-    number: 25
+  - name: "Clientes Satisfechos"
+    number: 90
     messurment: M
     color: "#A3A1FB"
-  - name: "Customers"
-    number: 440
+  - name: "Entregas Diarias"
+    number: 15
     messurment: M
     color: "#5EE2A0"
-  - name: "Customers"
-    number: 50
+  - name: "Pedidos Mensuales"
+    number: 450
     messurment: K
     color: "#FE6019"
-  - name: "Customers"
-    number: 20
+  - name: "Productos"
+    number: 10
     messurment: K
     color: "#FEC163"
     
 # Gallery
 gallery:
-  title: We started with one single goal Empower entrepreneurs
+  title: Comenzamos con un solo objetivo Ofrecer a nuestros clientes la mejor calidad al mejor precio, apoyando a nuestros productores locales.
   images:
     - "/images/about/gallery-img-1.png"
     - "/images/about/gallery-img-3.png"
@@ -39,24 +39,24 @@ gallery:
 
 ## our works
 features:
-  title: The six core work <br /> drive everything do
+  title: Las seis bases fundamentales guían todo lo que hacemos
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Explorar Catalogo
+    link: "/integrations"
     enable: true
   features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Calidad Excepcional
+      content: Seleccionamos cuidadosamente cada corte para asegurar que solo lo mejor llegue a tu mesa.
+    - title: Precios Justos
+      content: Ofrecemos productos de alta calidad a precios accesibles, garantizando el mejor valor para nuestros clientes.
+    - title: Frescura Garantizada
+      content: Empacamos y distribuimos rápidamente para mantener la frescura y el sabor natural de cada producto.
+    - title: Apoyo a Productores Locales
+      content: Colaboramos con ganaderos locales, impulsando el desarrollo económico de nuestras comunidades.
+    - title: Sostenibilidad
+      content: Implementamos prácticas responsables que protegen el medio ambiente y promueven el bienestar animal.
+    - title: Satisfacción del Cliente
+      content: Nos dedicamos a superar las expectativas, brindando un servicio excepcional y productos que encantan.
     
 
 ## members
@@ -83,4 +83,4 @@ members:
       field: Software Engineer
       image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+Nuestra visión es ser líderes en el mercado nacional e internacional, impulsando el desarrollo económico de nuestras comunidades y garantizando la satisfacción de nuestros clientes a través de procesos innovadores y éticos.

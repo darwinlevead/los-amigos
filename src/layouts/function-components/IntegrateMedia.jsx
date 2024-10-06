@@ -21,7 +21,7 @@ const IntegrateMedia = ({ integrations, categories }) => {
                   } btn btn-sm cursor-pointer`}
                   onClick={() => setTab("")}
                 >
-                  All Categories
+                  Todos Los Productos
                 </span>
               </li>
               {categories.map((category, i) => (
@@ -70,7 +70,7 @@ const IntegrateMedia = ({ integrations, categories }) => {
                   className="group inline-flex items-center font-semibold text-dark hover:text-primary"
                   href={`/integrations/${item.slug}`}
                 >
-                  View integration
+                  Ver Producto
                   <AiOutlineArrowRight className="ml-1.5 text-xl font-bold duration-300 group-hover:ml-3" />
                 </a>
               </div>

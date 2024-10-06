@@ -9,6 +9,8 @@ input#nav-toggle:checked ~ label#hide-button {
 
 input#nav-toggle:checked ~ #nav-menu {
   @apply block lg:flex;
+  @apply fixed top-0 left-0 w-full h-full bg-white; /* Asegura que el menú ocupe toda la pantalla */
+  @apply flex flex-col items-center justify-center; /* Centra los elementos del menú */
 }
 
 .header {
@@ -45,6 +47,17 @@ input#nav-toggle:checked ~ #nav-menu {
       @apply absolute bottom-0 left-2 right-2 h-0.5 bg-gradient-to-tl content-[''];
     }
   }
+}
+
+/* Estilo específico para cuando el menú está a pantalla completa en móviles */
+input#nav-toggle:checked ~ #nav-menu .nav-link {
+  @apply text-2xl; /* Aplica un tamaño de fuente más grande */
+}
+
+/* Estilo específico para cuando el menú está a pantalla completa en móviles */
+input#nav-toggle:checked ~ #nav-menu .nav-link,
+input#nav-toggle:checked ~ #nav-menu .nav-dropdown-link {
+  @apply text-2xl; /* Aplica un tamaño de fuente más grande */
 }
 
 .nav-dropdown {

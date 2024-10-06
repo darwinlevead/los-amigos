@@ -1,41 +1,73 @@
 ---
-title: "Terms & Condition Of Pinwheel"
+title: "Empacadora de Carne Los Amigos <br>S. de R.L de C.V."
 excerpt: Donec sollicitudin molestie malesda. Donec sollitudin molestie male <br /> suada Mauris pellentesque nec egestas non nisi Cras
 draft: false
 ---
 
-### 1. Definitions
+# Términos y Condiciones
 
-We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term "personal data" does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.
+## 1. Identificación de la Empresa
 
-### 2. General Terms
+**Empacadora de Carne Los Amigos S. de R.L de C.V.**  
+- **Ubicada en**: Los Vaditos, Petoa, Santa Bárbara, Honduras.  
+- **Registro Mercantil N.º**: _En Proceso_
+- **Contacto**: Teléfono 9218-4817, 
+- **Correo electrónico**: contacto@losamigoshn.com
 
-#### Service Provided AS IS
+## 2. Aceptación de los Términos
 
-The Service is provided for free during this pilot project, and is provided "as is" with no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any level of service or availability of the Service. A further description of the Service and our user support is available at the Site.
+Al utilizar los servicios y productos ofrecidos por **Empacadora de Carne Los Amigos S. de R.L de C.V.** (en adelante, "la Empresa"), usted acepta cumplir con los siguientes términos y condiciones. Si no está de acuerdo con estos términos, por favor absténgase de utilizar nuestros servicios.
 
-#### Interoperation with Slack
+## 3. Descripción de los Servicios
 
-The Service interoperates with Slack.com, and depends on the continuing availability and access to Slack. If for any reason Conclude cannot access or use Slack (including without limitation, change in terms or increase in fees charged by Slack), Conclude may not be able to provide all of the functions of its Service. No refund or credit, if applicable, will be provided for temporary unavailability of Slack (for example, maintenance windows).
+La Empresa se dedica a la compra, procesamiento, empacado y venta de productos cárnicos al por mayor y al detalle, cumpliendo con los estándares de calidad y normativas vigentes en la República de Honduras.
 
-#### Company Liability
+## 4. Uso de los Servicios
 
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and omissions conducted by its designated users of the Service.
+- **Clientes Comerciales y Consumidores**: Nuestros productos están disponibles para distribuidores, minoristas y consumidores finales, quienes deben usar los productos conforme a su naturaleza y destino.
+- **Regulaciones Sanitarias**: Todos los usuarios deben respetar y cumplir con las normas sanitarias aplicables al manejo y consumo de productos cárnicos.
 
-### 4. Rules of Use
+## 5. Obligaciones del Usuario
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+- **Información Veraz**: Proveer información exacta y actualizada al realizar pedidos o registrarse en nuestros sistemas.
+- **Cumplimiento Legal**: No utilizar nuestros productos para fines ilícitos o que contravengan las leyes hondureñas.
+- **Pago Puntual**: Realizar los pagos correspondientes en los plazos acordados.
 
-#### You must not
+## 6. Políticas de Privacidad
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+La Empresa se compromete a proteger la privacidad de los datos personales de sus clientes según lo establecido en la Ley de Protección de Datos Personales de Honduras. La información recopilada se utilizará exclusivamente para fines comerciales internos y no será compartida con terceros sin el consentimiento del titular, salvo requerimiento legal.
 
-### 5. Intellectual Property Rights
+## 7. Propiedad Intelectual
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you choose to provide information to us, Conclude transfers Personal Information to Google Cloud Platform and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Todos los contenidos, logos, marcas y material promocional de la Empresa están protegidos por las leyes de propiedad intelectual y su uso no autorizado está prohibido.
+
+## 8. Limitación de Responsabilidad
+
+La Empresa no será responsable por:
+
+- Daños o pérdidas derivados del mal uso de los productos por parte del cliente.
+- Retrasos o incumplimientos ocasionados por causas de fuerza mayor o eventos fuera del control de la Empresa.
+
+## 9. Garantías
+
+La Empresa garantiza que sus productos cumplen con los estándares de calidad y normas sanitarias vigentes. Cualquier reclamo debe ser realizado dentro de las 24 horas siguientes a la recepción del producto, acompañando evidencia suficiente.
+
+## 10. Modificaciones a los Términos
+
+La Empresa se reserva el derecho de modificar estos términos y condiciones en cualquier momento. Las modificaciones entrarán en vigor a partir de su publicación en nuestro sitio web o mediante notificación directa a los clientes.
+
+## 11. Ley Aplicable y Jurisdicción
+
+Estos términos y condiciones se regirán e interpretarán de acuerdo con las leyes de la República de Honduras. Para cualquier controversia que pudiera derivarse, las partes se someten a la jurisdicción de los tribunales competentes en la ciudad de Santa Bárbara.
+
+## 12. Contacto
+
+Para consultas o aclaraciones sobre estos términos y condiciones, puede comunicarse con nosotros a través de:
+
+- **Dirección**: Los Vaditos, Petoa, Santa Bárbara, Honduras.
+- **Teléfono**: 9218-4817
+- **Correo Electrónico**: contacto@losamigoshn.com
+
+---
+
+*Fecha de última actualización: 01/07/2024*

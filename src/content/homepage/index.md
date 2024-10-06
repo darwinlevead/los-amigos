@@ -1,131 +1,131 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Del Campo a Tu Mesa: Carne Fresca de Calidad Superior"
+  content: "Disfruta carne fresca y jugosa, seleccionada cuidadosamente para ofrecerte el mejor sabor en cada comida."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Haz Tu Pedido!
+    link: "/integrations"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Lo Que Nos Hace Únicos"
+  description: Ofrecemos carne fresca y de calidad, cuidando cada detalle para que disfrutes de un sabor inigualable.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Frescura Garantizada
+      content: Procesamos y empacamos la carne rápidamente para asegurar la máxima frescura en cada entrega.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Calidad Premium
+      content: Seleccionamos solo los mejores cortes, garantizando un producto de alta calidad para nuestros clientes.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Sostenibilidad
+      content: Implementamos prácticas sostenibles en toda la cadena de producción, respetando el medio ambiente y el bienestar animal.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Trazabilidad Completa
+      content: Ofrecemos transparencia total, permitiendo a los clientes conocer el origen y el proceso de cada corte.
     - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Tecnologia Avanzada
+      content: Utilizamos tecnología de punta en el procesamiento y empaque para mantener la calidad y seguridad alimentaria.
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Variedad de Cortes
+      content: Ofrecemos una amplia gama de cortes para satisfacer todas las preferencias y necesidades culinarias.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Atención al Cliente
+      content: Brindamos un servicio al cliente excepcional, asegurando que cada experiencia de compra sea satisfactoria.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Innovación Constante
+      content: Nos mantenemos a la vanguardia de las tendencias del mercado para ofrecer productos innovadores y de calidad.
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Distribución Eficiente
+      content: Contamos con una red de distribución eficiente que garantiza entregas puntuales y en óptimas condiciones.
     - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Compromiso Local
+      content: Apoyamos a los productores locales, contribuyendo al desarrollo económico de nuestras comunidades.
 
 #service
 service:
   homepage_tab:
-    title: Prevent failure from to impacting your reputation
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
+    title: Cobertura de Envíos Ampliada
+    description: Llevamos nuestros productos frescos a donde estés. Con una red de distribución eficiente, garantizamos que nuestros cortes lleguen a tu hogar en perfectas condiciones.
     tab_list:
-        - title: Habit building essential choose habit
+        - title: Cobertura Nacional- Envíos disponibles en todo el país.
           icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
+        - title: Entrega Rápida - Compromiso de entrega en tiempos reducidos.
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
+        - title: Seguimiento en Tiempo Real - Monitorea tu pedido desde nuestra planta hasta tu puerta.
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    - title: Puntos de Recogida ConvenientesPuntos de Recogida Convenientes
+      desctiption: Puntos de Recogida Convenientes
       image: "/images/collaboration.png"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+        - Ubicaciones Estratégicas - Puntos de recogida en áreas de fácil acceso.
+        - Horarios Flexibles - Disponibilidad en horarios extendidos para tu comodidad.
+        - Proceso Rápido - Recoge tu pedido sin demoras.
+    - title: Opciones de Pago Seguras y Flexibles
+      description: Facilita tus compras con nuestras diversas opciones de pago, diseñadas para ser seguras y convenientes.
       video:
         thumbnail: "/images/intro-thumbnail.png"
         video_id: "g3-VxLQO7do"
       button:
-        label: Know About Us
-        link: "#"
+        label: Haz Tu Pedido!
+        link: "/integrations"
         enable: true
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: Lo Que Dicen Nuestros Clientes
+  description: Descubre por qué nuestros clientes eligen nuestros productos una y otra vez. Desde la frescura incomparable hasta el servicio excepcional, sus experiencias reflejan nuestro compromiso con la calidad y la satisfacción.
   testimonial_list:
-    - author: David Cameron
+    - author: María López
       avatar: "/images/users/user-5.png"
-      organization: meta limited
+      organization: Tegucigalpa
       rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: La calidad de la carne es insuperable. Cada corte es fresco y jugoso, perfecto para mis asados familiares.
+    - author: Carlos Méndez
       avatar: "/images/users/user-6.png"
-      organization: meta limited
+      organization: San Pedro Sula
       rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: Desde que descubrí esta empacadora, no compro carne en otro lugar. La frescura y el sabor son excepcionales.
+    - author: Ana Castillo
       avatar: "/images/users/user-2.png"
-      organization: meta limited
+      organization: La Ceiba
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: Me encanta la variedad de cortes que ofrecen. Siempre encuentro justo lo que necesito para mis recetas.
+    - author: José Ramírez
       avatar: "/images/users/user-3.png"
-      organization: meta limited
+      organization: Choluteca
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: El servicio de entrega es rápido y confiable. La carne siempre llega en perfectas condiciones.
+    - author: Lucía Fernández
       avatar: "/images/users/user-4.png"
-      organization: meta limited
+      organization: Comayagua
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: La atención al cliente es excelente. Siempre me ayudan a elegir los mejores cortes para mis platillos.
+    - author: Miguel Torres
       avatar: "/images/users/user-1.png"
-      organization: meta limited
+      organization: El Progreso
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: La carne es de una calidad superior. Se nota el cuidado y la dedicación en cada producto.
+    - author: Rosa Martínez
       avatar: "/images/users/user-5.png"
-      organization: meta limited
+      organization: Danlí
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: Aprecio mucho su compromiso con la sostenibilidad. Es un placer comprar carne que sé que es producida responsablemente.
+    - author: Juan Pérez
       avatar: "/images/users/user-5.png"
-      organization: meta limited
+      organization: Juticalpa
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: La suscripción mensual es una maravilla. Recibo cortes premium cada mes y siempre estoy satisfecho.
+    - author: Elena Gómez
       avatar: "/images/users/user-5.png"
-      organization: meta limited
+      organization: Santa Rosa de Copán
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: La frescura de la carne es incomparable. Cada bocado es una delicia, y mis invitados siempre quedan impresionados.
 ---
