@@ -52,8 +52,8 @@ const page_data = {
                 class="mx-auto"
                 src={post.data.image}
                 alt=""
-                height={80}
-                width={80}
+                height={1024} 
+                width={1024}
               />
               <h1 class="mt-6">{post.data.title}</h1>
               <p class="mt-6" set:html={markdownify(post.data.excerpt)} />

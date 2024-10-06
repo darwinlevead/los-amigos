@@ -46,7 +46,7 @@ const IntegrateMedia = ({ integrations, categories }) => {
             >
               <div className="rounded-xl bg-white px-10 pb-8 pt-11 shadow-lg">
                 <div className="integration-card-head flex items-center space-x-4">
-                  <img src={item.data.image} alt="" />
+                  <img src={item.data.image} alt="" style={{ width: "80px", height: "80px" }} />
                   <div>
                     <h4 className="h4">{humanize(item.data.name)}</h4>
                     {item.data.categories.map((category, i) => (
