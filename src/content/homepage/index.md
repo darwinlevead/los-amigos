@@ -61,7 +61,7 @@ service:
           image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Puntos de Recogida ConvenientesPuntos de Recogida Convenientes
+    - title: Puntos de Recogida Convenientes
       desctiption: Puntos de Recogida Convenientes
       image: "/images/collaboration.png"
       list:
