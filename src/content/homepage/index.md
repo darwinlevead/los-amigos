@@ -72,7 +72,7 @@ service:
       description: Facilita tus compras con nuestras diversas opciones de pago, diseñadas para ser seguras y convenientes.
       video:
         thumbnail: "/images/intro-thumbnail.png"
-        video_id: "g3-VxLQO7do"
+        video_id: ""
       button:
         label: Haz Tu Pedido!
         link: "/integrations"
