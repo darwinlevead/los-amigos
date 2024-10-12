@@ -31,7 +31,7 @@ counter:
     
 # Gallery
 gallery:
-  title: Comenzamos con un solo objetivo Ofrecer a nuestros clientes la mejor calidad al mejor precio, apoyando a nuestros productores locales.
+  title: Comenzamos con un solo objetivo <h5><em>Ofrecer a nuestros clientes la mejor calidad al mejor precio, apoyando a nuestros productores locales.</em></h5>
   images:
     - "/images/about/gallery-img-1.png"
     - "/images/about/gallery-img-3.png"
