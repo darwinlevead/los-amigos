@@ -58,12 +58,12 @@ service:
           image: "/images/collaboration.png"
         - title: Seguimiento en Tiempo Real - Monitorea tu pedido desde nuestra planta hasta tu puerta.
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
+          image: "/images/collaboration2.png"
 
   our_service:
     - title: Puntos de Recogida Convenientes
       desctiption: Puntos de Recogida Convenientes
-      image: "/images/collaboration.png"
+      image: "/images/collaboration3.png"
       list:
         - Ubicaciones Estratégicas - Puntos de recogida en áreas de fácil acceso.
         - Horarios Flexibles - Disponibilidad en horarios extendidos para tu comodidad.
