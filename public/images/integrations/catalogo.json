@@ -1,0 +1,90 @@
+[
+    {
+        "nombre": "Rib Eye",
+        "descripcion_corta": "Un corte muy apreciado por su alto marmoleo y suavidad",
+        "imagen_precio": "rib-eye.jpeg",
+        "precio": 80 Lps,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    },
+    {
+        "nombre": "T-bone",
+        "descripcion_corta": "Conocido por su hueso en forma de "T", es ideal para asar al carbón",
+        "imagen_precio": "t-bone.jpeg",
+        "precio": 80,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+    {
+        "nombre": "New York Steak",
+        "descripcion_corta": "Un corte jugoso y sabroso, perfecto para parrillas",
+        "imagen_precio": "new-york-stake.jpeg",
+        "precio": 80,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+    {
+        "nombre": "Puyazo",
+        "descripcion_corta": "Popular en la región, conocido por su sabor y textura",
+        "imagen_precio": "puyazo.jpeg",
+        "precio": 80,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+    {
+        "nombre": "Entraña",
+        "descripcion_corta": "Un corte tierno y sabroso, ideal para parrillas",
+        "imagen_precio": "entrana.jpeg",
+        "precio": 80,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+    {
+        "nombre": "Costilla de Res",
+        "descripcion_corta": "Un corte versátil y sabroso, ideal para asados y barbacoas",
+        "imagen_precio": "costilla-res.jpeg",
+        "precio": 80,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+    {
+        "nombre": "Costilla de Cerdo",
+        "descripcion_corta": "Muy utilizada en asados y barbacoas",
+        "imagen_precio": "costilla-cerdo.jpeg",
+        "precio": 60,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+    {
+        "nombre": "Lomo de Cerdo",
+        "descripcion_corta": "Un corte magro y versátil, ideal para asar o cocinar al horno",
+        "imagen_precio": "lomo-cerdo.jpeg",
+        "precio": 60,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+    {
+        "nombre": "Paleta de Cerdo",
+        "descripcion_corta": "Perfecta para asados lentos o estofados",
+        "imagen_precio": "paleta-cerdo.jpeg",
+        "precio": 55,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+    {
+        "nombre": "Chuleta de Cerdo",
+        "descripcion_corta": "Popular para freír o asar, es un corte jugoso y sabroso",
+        "imagen_precio": "chuleta-cerdo.jpeg",
+        "precio": 55,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+    {
+        "nombre": "Pierna de Cerdo",
+        "descripcion_corta": "Ideal para asados y preparaciones al horno",
+        "imagen_precio": "pierna-cerdo.jpeg",
+        "precio": 60,
+        "descripcion_larga": "#",
+        "link": "http://losamigoshn.com"
+    }
+]
